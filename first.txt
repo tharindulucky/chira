@@ -1,3 +1,5 @@
 first line
 second line
 3rd line by branch2
+
+4th line by b2
